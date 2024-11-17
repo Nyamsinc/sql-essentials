@@ -1,0 +1,14 @@
+When composing queries, we need to consider the following
+    1. Creating commands
+    2. SQL query best practices
+    3. Using of Aliases to communicate best business practices
+    4. Sorting and Limiting Query Results
+
+Query commenting
+- This is the plain or natural way to describe a query
+
+--This is a one line comment
+
+/*
+	This is a comment block
+*/
